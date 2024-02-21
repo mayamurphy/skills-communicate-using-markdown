@@ -12,3 +12,6 @@ Testing Headers -- can have up to 6 '#', and must be followed by a space
 ``` java
 System.out.println("Hello, world!");
 ```
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
